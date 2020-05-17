@@ -1,0 +1,21 @@
+01) Inicalizando o "package.json":
+
+    yarn init -y
+
+
+02) Padroninzando commits seguindo a convenção do site "conventional commits"
+
+    link:
+    https://www.conventionalcommits.org/en/v1.0.0/
+
+
+03) Adicionando dependência de desenvolvimento para 
+    fazer com que o Git obedeça a um padrão de commits pré-estabelecidos:
+
+    git add git-commit-msg-linter -D
+
+
+04) Criando o ".gitignore":
+
+    Inicialmente iremos ignorar a pasta
+    "node_modules"
