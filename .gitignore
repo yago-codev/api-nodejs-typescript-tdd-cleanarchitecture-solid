@@ -1,1 +1,5 @@
+# pasta de pacotes/dependencias
 node_modules
+
+# pasta de saída dos arquivos TS transpilados
+dist
