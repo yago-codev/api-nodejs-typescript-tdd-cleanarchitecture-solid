@@ -1,0 +1,7 @@
+{
+  "name": "api-nodejs-typescript-tdd-cleanarchitecture-solid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yago Milano <yago.codev@gmail.com> (https://github.com/yago-codev)",
+  "license": "MIT"
+}
