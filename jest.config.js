@@ -6,6 +6,6 @@ module.exports = {
   testEnvironment: 'node',
   // transpilando/convertendo os arquivos ts antes de rodarmos os testes
   transform: {
-    '.*\\.ts$': 'ts-jest'
+    '.+\\.ts$': 'ts-jest'
   }
 }
